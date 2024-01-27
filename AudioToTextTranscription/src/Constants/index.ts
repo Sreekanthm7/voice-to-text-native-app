@@ -1,0 +1,1 @@
+export const ASYNC_STORAGE_AUTH_KEY = 'audioToText/auth';
